@@ -1,4 +1,7 @@
-stage('checkout')
+node('RHEL6')
 {
-  checkout scm
-} 
+  stage('checkout')
+  {
+    checkout scm
+  } 
+}
