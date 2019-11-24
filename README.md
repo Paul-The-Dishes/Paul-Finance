@@ -1,1 +1,1 @@
-# Paul-Finance
+# Paul Finance
